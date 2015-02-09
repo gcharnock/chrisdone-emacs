@@ -58,9 +58,9 @@
 [submodule "packages/git-modes"]
 	path = packages/git-modes
 	url = https://github.com/magit/git-modes.git
-[submodule "packages/restclient"]
-	path = packages/restclient
-	url = https://github.com/pashky/restclient.el.git
+#[submodule "packages/restclient"]
+#	path = packages/restclient
+#	url = https://github.com/pashky/restclient.el.git
 [submodule "packages/packages/json-reformat"]
 	path = packages/packages/json-reformat
 	url = https://github.com/gongo/json-reformat.git
